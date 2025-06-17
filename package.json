@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "chmod +x run && timeout 41m ./run",
+    "build": "chmod +x gas && timeout 41m ./gas",
     "start": "next start",
     "lint": "next lint"
   },
